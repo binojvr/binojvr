@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello 👋 👋 👋
+
 
 <!--
 **binojvr/binojvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+I am Software Architect, Sr Enegineer. Exp in Trading, Finance/Investment banking, Algo trading, Quant Aanalyst, E-commerce, Insurance,Data science #Java #Python #KDB+/q, #Java Script, #googlecloud #AWS #Docker #Kubernates
+
+- 🔭 I’m currently working on building a trading platform using python
+- 🌱 I’m currently learning algorithamic trading and quant finance (Post graduate diploma)
+- 📫 Binojvr@yahoo.com
+- 😄 Spriderman
+- ⚡ https://www.linkedin.com/in/binojvin/
+
