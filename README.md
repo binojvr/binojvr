@@ -1,4 +1,7 @@
-### Hello 👋 👋 👋
+# Hi there, I'm Binoj  👋 👋 👋
+
+
+## I'm a software Architect, Sr Enegineer.  👋 👋 👋 👋 👋 👋
 
 
 <!--
