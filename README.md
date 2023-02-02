@@ -1,13 +1,13 @@
 # Hi there, I'm Binoj  👋 👋 👋
 
 
-## I'm a software Architect, Sr Enegineer.  👋 👋 👋 👋 👋 👋
+## I'm a software Architect, Sr Engineer.  👋 👋 👋 👋 👋 👋
 
 
 <!--
 **binojvr/binojvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am Software Architect, Sr Enegineer. Exp in Trading, Finance/Investment banking, Algo trading, Quant Aanalyst, E-commerce, Insurance,Data science #Java #Python #KDB+/q, #Java Script, #googlecloud #AWS #Docker #Kubernates
+I am Software Architect, Sr Engineer. Exp in Trading, Finance/Investment banking, Algo trading, Quant Aanalyst, E-commerce, Insurance,Data science #Java #Python #KDB+/q, #Java Script, #googlecloud #AWS #Docker #Kubernates
 
 - 🔭 I’m currently working on building a trading platform using python
 - 🌱 I’m currently learning algorithmic trading and quant finance (Post graduate diploma)
