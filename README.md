@@ -10,7 +10,7 @@
 I am Software Architect, Sr Engineer. Exp in Trading, Finance/Investment banking, Algo trading, Quant Aanalyst, E-commerce, Insurance,Data science #Java #Python #KDB+/q, #Java Script, #googlecloud #AWS #Docker #Kubernates
 
 - 🔭 I’m currently working on building a trading platform using python
-- 🌱 I’m currently learning algorithmic trading and quant finance (Post graduate diploma)
+- 🌱 I’m currently pursuing algorithmic trading and quant finance (Post graduate diploma)
 - 📫 Binojvr@yahoo.com
 - 😄 Spriderman
 - ⚡ Meachine learning(Finance)
